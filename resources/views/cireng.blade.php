@@ -102,7 +102,7 @@
             <hr>
             <h5>Langkah :</h5>
             <ul>
-                <li>1. Geprek bawang putih dan potong daun bawang. Campurkan ke dalam tepung tapioka dan garam</li>
+                <li>1. Geprek bawang putih dan potong daun bawang. Campurkan ke dalam tepung tapioka dan garam.</li>
                 <li>2. Rebus air 180 ml, dan tambahkan 2 sdm tepung tapioka, aduk sampai seperti lem (disebutnya adonan biang).</li>
                 <li>3. Terus biang itu dicampurin ke sisa tapioka, dicampur dan diuleni</li>
                 <li>4. Uleni adonan pake sendok atau tangan sampe adonan bisa dibentuk.</li>
