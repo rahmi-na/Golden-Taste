@@ -9,7 +9,7 @@
 
             <h5>Bahan-bahan:</h5>
             <ul>
-                <li>Gula aren atau gula merah 500 gram, sisir</li>
+                <li>Gula aren atau gula merah 500gr, sisir</li>
                 <li>Air 2 gelas</li>
                 <li>Daun pandan 2 lembar</li>
                 <li>Rebus semua bahan hingga mendidih, sambil sesekali di aduk hingga gula larut.</li>
