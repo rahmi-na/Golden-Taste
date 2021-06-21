@@ -105,8 +105,8 @@
                 <li>1. Geprek bawang putih dan potong daun bawang. Campurkan ke dalam tepung tapioka dan garam.</li>
                 <li>2. Rebus air 180 ml, dan tambahkan 2 sdm tepung tapioka, aduk sampai seperti lem (disebutnya adonan biang).</li>
                 <li>3. Terus biang itu dicampurin ke sisa tapioka, dicampur dan diuleni</li>
-                <li>4. Uleni adonan pake sendok atau tangan sampe adonan bisa dibentuk.</li>
-                <li>5. Ambil adonan 10 gr, bulatkan kalo mau diberi isian beri sedikit Keju Mozza. atau beri isian lainnya sesuai selera..</li>
+                <li>4. Uleni adonan pake sendok atau tangan sampai adonan bisa dibentuk.</li>
+                <li>5. Ambil adonan 10 gr, bulatkan kalo mau diberi isian beri sedikit Keju Mozza. atau beri isian lainnya sesuai selera.</li>
                 <li>6. Lalu Pipihkan adonan cireng seperti ini, jangan terlalu tipis ya.. apalagi kalo pake isian</li>
                 <li>7. Hasil nya Lumayan banyak nih.. jadi 13-15 biji tergantung ukuran dan berat adonan.</li>
                 <li>8. Goreng cireng dalam minyak panas dan api sedang. kalo adonan sesuai step diatas, cireng bakal mengembang dan berwarna putih</li>
