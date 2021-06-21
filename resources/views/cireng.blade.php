@@ -100,7 +100,7 @@
                 <li>180 ml air panas</li>
             </ul>
             <hr>
-            <h5>Langkah :</h5>
+            <h5>Langkah - langkah :</h5>
             <ul>
                 <li>1. Geprek bawang putih dan potong daun bawang. Campurkan ke dalam tepung tapioka dan garam.</li>
                 <li>2. Rebus air 180 ml, dan tambahkan 2 sdm tepung tapioka, aduk sampai seperti lem (disebutnya adonan biang).</li>
